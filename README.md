@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
+![logo]([https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png](https://github.com/fawadmughal-ds/fawadmughal-ds/blob/main/Fawad-header-image.png))
 
 <h1 align="center">Hi 👋, I'm Fawad Mughal</h1>
 <h3 align="center">Aspiring Data Scientist | Web Developer | Machine Learning | Python Enthusiast </h3>
