@@ -1,4 +1,4 @@
-![Header](./[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fleviarista%2Fa-simple-but-nice-header-generator-for-your-github-profile-2m6b&psig=AOvVaw2vTPngIaNIDIKG-vai47A9&ust=1719687706618000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiu7sWA_4YDFQAAAAAdAAAAABAE ])
+![logo](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)
 
 <h1 align="center">Hi 👋, I'm Fawad Mughal</h1>
 <h3 align="center">Aspiring Data Scientist | Web Developer | Machine Learning | Python Enthusiast </h3>
