@@ -1,6 +1,4 @@
 ![logo](https://github.com/fawadmughal-ds/fawadmughal-ds/blob/main/Fawad-header-image.png)
-
-<h1 align="center">Hi 👋, I'm Fawad Mughal</h1>
 <h3 align="center">Aspiring Data Scientist | Web Developer | Machine Learning | Python Enthusiast </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
