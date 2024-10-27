@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Web Developer | Machine Learning | Python Enthusiast </h3>  
 <img align="right" width="400" src="" alt="fawadmughal-ds" /></a> </p>
 
-- 🔭 I'm currently not working. **I'm currently doing freelancing in web development.**
+- 🔭 I'm currently **doing freelancing in web development.**
 
 - 🌱 I’m currently learning **and developing my skills in data science, machine learning.**
 
