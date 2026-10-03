@@ -1,20 +1,140 @@
-![logo](https://github.com/fawadmughal-ds/fawadmughal-ds/blob/main/Fawad-header-image.png)
-<h3 align="center">Aspiring Data Scientist | Web Developer | Machine Learning | Python Enthusiast </h3>  
-<img align="right" width="400" src="" alt="fawadmughal-ds" /></a> </p>
+<a id="top"></a>
 
-- 🔭 I'm currently **doing freelancing in web development.**
-
-- 🌱 I’m currently learning **and developing my skills in data science, machine learning.**
-
-- 📫 How to reach me **help.fawadmughal@gmail.com**
-
-- ⚡ Fun fact **When I'm not coding or working on data science projects, I love exploring new technologies and finding creative ways to solve problems. I also enjoy reading about the latest trends in AI and machine learning.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fawad-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fawad-mughal" height="30" width="40" /></a>
-<a href="https://kaggle.com/fawadmughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fawadmughal" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Fawad Mughal — Data Scientist and Full-Stack Web Developer based in Lahore, Pakistan. Available for freelance work." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/fawad-mughal"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a12" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/fawadmughal"><img src="https://img.shields.io/badge/Kaggle-Notebooks-7dd3fc?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a0a12" alt="Kaggle" /></a>
+  <a href="mailto:help.fawadmughal@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-f0abfc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a12" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <a href="#-about-me"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#-featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#-toolbox"><b>Toolbox</b></a> &nbsp;·&nbsp;
+  <a href="#-github-activity"><b>Activity</b></a> &nbsp;·&nbsp;
+  <a href="#-lets-work-together"><b>Contact</b></a>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 👋 About me
+
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="Terminal window printing about.json: Fawad Mughal, Lahore, Pakistan. Data Scientist and Full-Stack Web Developer, freelancing in web development, building AI voice agents, WhatsApp SaaS and RAG pipelines, learning data science and machine learning." />
+</p>
+
+<details>
+<summary><b>Prefer plain text?</b></summary>
+<br />
+
+- 🔭 Freelancing in **web development**, shipping full-stack products end to end
+- 🤖 Building **AI voice agents**, **WhatsApp SaaS** and **RAG pipelines**
+- 🌱 Growing my skills in **data science** and **machine learning**
+- ⚡ Off the keyboard: exploring new tech and reading up on the latest in AI
+- 📫 Reach me at **[help.fawadmughal@gmail.com](mailto:help.fawadmughal@gmail.com)**
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/fawadmughal-ds/vapi"><img src="./assets/project-nextcall.svg" width="49%" alt="NextCall — white-label, multi-tenant SaaS for AI voice agents. FastAPI, Next.js, PostgreSQL, Twilio, Stripe." /></a>
+  <a href="https://github.com/fawadmughal-ds/wab"><img src="./assets/project-wa-business.svg" width="49%" alt="WA Business — multi-tenant WhatsApp SaaS platform. FastAPI, Next.js, TypeScript, Docker." /></a>
+  <a href="https://github.com/fawadmughal-ds/Top-Asian-University-Analysis-Streamlit"><img src="./assets/project-university-analysis.svg" width="49%" alt="Asian University Analysis — Streamlit dashboard for QS World University Rankings 2024. Python, Streamlit, Jupyter." /></a>
+  <a href="https://github.com/fawadmughal-ds/OS-UNIX-SHELL"><img src="./assets/project-myshell.svg" width="49%" alt="MyShell — a UNIX shell written in C. C, Linux, processes." /></a>
+</p>
+
+<details>
+<summary><b>More repositories</b></summary>
+<br />
+
+| Repository | What it is | Main language |
+| :-- | :-- | :-- |
+| [cattle-monitoring](https://github.com/fawadmughal-ds/cattle-monitoring) | Cattle monitoring dashboard | TypeScript |
+| [CraftAFloor-local](https://github.com/fawadmughal-ds/CraftAFloor-local) | Python backend with a TypeScript front end | Python |
+| [Intro-to-Data-Science](https://github.com/fawadmughal-ds/Intro-to-Data-Science) | Data science coursework notebooks | Jupyter Notebook |
+| [DSA](https://github.com/fawadmughal-ds/DSA) | Data structures and algorithms practice | Python |
+| [Python-Games](https://github.com/fawadmughal-ds/Python-Games) | Small games written in Python | Python |
+| [Python](https://github.com/fawadmughal-ds/Python) | OOP exercises and assorted Python programs | Python |
+
+<p align="right"><a href="https://github.com/fawadmughal-ds?tab=repositories">Browse all repositories →</a></p>
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🧰 Toolbox
+
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,c,php,html,css&theme=dark" height="42" alt="Python, TypeScript, JavaScript, C, PHP, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Web &amp; APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react,tailwind,bootstrap&theme=dark" height="42" alt="FastAPI, Django, Next.js, React, Tailwind CSS, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" height="42" alt="TensorFlow, scikit-learn" /><br />
+      <sub>plus Pandas · Seaborn · Streamlit · Jupyter · Selenium</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="42" alt="PostgreSQL, MySQL" /><br />
+      <sub>plus Oracle</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,linux,bash&theme=dark" height="42" alt="Git, Docker, Linux, Bash" /></td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" height="42" alt="Photoshop, Illustrator" /></td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📈 GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fawadmughal-ds&background=0A0A12&border=26263A&stroke=26263A&ring=A78BFA&fire=F0ABFC&currStreakNum=ECECF4&sideNums=ECECF4&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=9A9AB0" height="170" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadmughal-ds&layout=compact&langs_count=8&bg_color=0A0A12&border_color=26263A&title_color=A78BFA&text_color=ECECF4" height="170" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fawadmughal-ds/fawadmughal-ds/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fawadmughal-ds/fawadmughal-ds/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/fawadmughal-ds/fawadmughal-ds/output/snake-dark.svg" width="100%" alt="Snake animation eating my contribution graph" />
+  </picture>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🤝 Let's work together
+
+I'm open to freelance projects and collaborations in **web development**, **AI products** and **data science**. The fastest way to reach me is email.
+
+<p align="center">
+  <a href="mailto:help.fawadmughal@gmail.com"><img src="https://img.shields.io/badge/help.fawadmughal%40gmail.com-f0abfc?style=for-the-badge&logo=gmail&logoColor=0a0a12" alt="help.fawadmughal@gmail.com" /></a>
+  <a href="https://linkedin.com/in/fawad-mughal"><img src="https://img.shields.io/badge/in%2Ffawad--mughal-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0a0a12" alt="LinkedIn: fawad-mughal" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fawadmughal-ds&label=Profile%20views&color=a78bfa&style=flat" alt="Profile views" />
+</p>
+
+<p align="center"><a href="#top">Back to top ↑</a></p>
+
+<img src="./assets/footer.svg" width="100%" alt="" />
